@@ -71,3 +71,7 @@ The most important key drivers according to our model are:
    - **msm12month**: percent of men who have sex with men in the past 12 months
    - **nonmedpain**: Percent of Population 12 or Older Reporting Non-medical Use of Pain Relievers
    - **num_SSPs**: Total number of syringe exchange programs.
+
+To determine whether these key drivers have a significant relationship with HIV incidence, we planned to run an inferential regression to calculate p-values and 95% confidence intervals. 
+
+   ![alt text](images/inferential_reg.png "Title")
